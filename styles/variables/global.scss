@@ -1,0 +1,82 @@
+:root {
+  --font-family-main: "Montserrat", "Arial", sans-serif;
+  --font-size-s: 12px;
+  --font-line-s: 1.5;
+  --font-s: var(--font-size-s) / var(--font-line-s) var(--font-family-main);
+  --font-size-m: 16px;
+  --font-line-m: 1.5;
+  --font-m: var(--font-size-m) / var(--font-line-m) var(--font-family-main);
+  --font-size-l: 24px;
+  --font-line-l: 1.5;
+  --font-l: var(--font-size-l) / var(--font-line-l) var(--font-family-main);
+  --font-size-xl: 32px;
+  --font-line-xl: 1.5;
+  --font-xl: var(--font-size-xl) / var(--font-line-xl) var(--font-family-main);
+
+  // sizes
+  --navbar-height: 70px;
+  --sidebar-width: 290px;
+  --sidebar-collapsed-width: 90px;
+  --button-size-s: 20px;
+  --button-size-m: 40px;
+  --button-size-l: 60px;
+  --button-size-xl: 80px;
+
+  // indexes
+  --modal-z-index: 10;
+
+  // Colors
+  --overlay-color: rgba(0 0 0 / 40%);
+
+  // avatar-colors
+  --avatar-color: transparent;
+  --avatar-color-0: #f9a825;
+  --avatar-color-1: #f56b00;
+  --avatar-color-2: #c62828;
+  --avatar-color-3: #c2185b;
+  --avatar-color-4: #e92064;
+  --avatar-color-5: #911fa2;
+  --avatar-color-6: #9010d1;
+  --avatar-color-7: #7448dd;
+  --avatar-color-8: #3e3acb;
+  --avatar-color-9: #2044d5;
+  --avatar-color-10: #016bdc;
+  --avatar-color-11: #2196f3;
+  --avatar-color-12: #00bcd4;
+  --avatar-color-13: #0088a3;
+  --avatar-color-14: #008f7c;
+  --avatar-color-15: #00a352;
+  --avatar-color-16: #1abc1a;
+  --avatar-color-17: #6fb80a;
+
+  // font-weight
+  --font-weight-text-thin: 100;
+  --font-weight-text-extralight: 100;
+  --font-weight-text-light: 300;
+  --font-weight-text-regular: normal;
+  --font-weight-text-medium: 500;
+  --font-weight-text-semibold: 600;
+  --font-weight-text-bold: 700;
+  --font-weight-text-extrabold: 800;
+  --font-weight-text-black: 900;
+
+  // font-size
+  --size-text-xs2: 10px;
+  --size-text-xs: 12px;
+  --size-text-s: 14px;
+  --size-text-m: 16px;
+  --size-text-l: 18px;
+  --size-text-xl: 20px;
+  --size-text-xl2: 24px;
+  --size-text-xl3: 32px;
+  --size-text-xl4: 48px;
+  --size-text-xl5: 72px;
+  --size-text-xl6: 96px;
+
+  // line-height
+  --line-height-text-2xs: 1.1em;
+  --line-height-text-xs: 1.2em;
+  --line-height-text-s: 1.4em;
+  --line-height-text-m: 1.5em;
+  --line-height-text-l: 1.6em;
+}
